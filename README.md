@@ -1,7 +1,8 @@
 # NeuroNexus
 Web Development Internship at NeuroNexus Innovations 
 
-# NexusTalent Landing Page
+# Task 1
+## NexusTalent Landing Page
 
 Welcome to NexusTalent, your go-to recruitment platform for top-tier talent and dream job opportunities.
 
@@ -23,3 +24,43 @@ Welcome to NexusTalent, your go-to recruitment platform for top-tier talent and 
 ## Contributing
 
 We welcome contributions! Fork, create a branch, make changes, and open a pull request.
+
+# Task 2
+
+# QuizMaker
+
+## Overview
+
+QuizMaker is an interactive platform that allows users to effortlessly create and take quizzes. Users can input questions, provide multiple-choice answers, and designate correct solutions to build engaging quizzes. The platform ensures a seamless experience, allowing other users to take quizzes and receive immediate feedback on their scores.
+
+## Features
+
+- **Quiz Creation:** Input questions, multiple-choice answers, and correct solutions to create personalized quizzes.
+- **Quiz Taking:** Users can take quizzes and instantly view their scores.
+- **User-Friendly Interface:** Modern and intuitive design for a smooth user experience.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/QuizMaker.git
+   ```
+2. Open `index.html` in your web browser.
+
+## Usage
+
+- To create a quiz, input questions, choices, and correct answers in the provided form.
+- To take a quiz, select your answers and click "Submit" to receive immediate feedback on your score.
+
+## Contributing
+
+Contributions are welcome! Fork the repository, create a branch, make changes, and open a pull request.
+
+Start creating and taking quizzes with QuizMaker!
+
+![QuizMaker](link-to-screenshot.png)
+
+## Acknowledgments
+
+- Built with HTML, CSS, and JavaScript.
+- Inspired by the problem statement for Task 3 - Online Quiz Maker.
